@@ -10,7 +10,7 @@ The next `T` lines each contain the space separated values of `a` and `b`.
 
 ### Output Format
 
-Print the value of `a/b`.
+Print the value of `a/b`.  
 In the case of ZeroDivisionError or ValueError, print the error code.
 
 ### Sample Input
